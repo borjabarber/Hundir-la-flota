@@ -36,7 +36,7 @@
 
 - `main.py`: Archivo principal que inicia el juego.
 - `utils.py`: Funciones auxiliares utilizadas en el juego.
-- `presentacion.ipynb`: Notebook de Jupyter con una presentación del proyecto.
+- `presentacion.ipynb`: Notebook de Jupyter con una explicación del codigo.
 - `old_vers/`: Versiones anteriores del juego para referencia.
 
 ## Contribuciones
